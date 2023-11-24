@@ -2,7 +2,7 @@
 export const ProjectList = [
   {
     img: "/weather.png",
-    title: "Weather app",
+    title: "Weather App",
     description:
       "Experience weather updates at your fingertips with sleek React-based app, providing real-time forecasts and intuitive navigation for a seamless and informed daily planning.",
     tech_stack: ["React"],
@@ -26,6 +26,24 @@ export const ProjectList = [
     tech_stack: ["React", "Context", "Firebase"],
     github_url: "https://github.com/IASIKO/food-order-application",
     demo_url: "https://iasiko.github.io/food-order-application/",
+  },
+  {
+    img: "/travel.png",
+    title: "Travel App",
+    description:
+      "Welcome to the Travel Information Website, a dynamic and responsive platform built using React. This website is designed to provide you with detailed information about traveling.",
+    tech_stack: ["React", "SASS"],
+    github_url: "https://github.com/IASIKO/travel",
+    demo_url: "https://iasiko.github.io/travel/",
+  },
+  {
+    img: "/HHM.png",
+    title: "HHM",
+    description:
+      "Welcome to the Layer Information Website, a dynamic and responsive platform built using vanilla JavaScript. This website is designed to provide you with detailed information about different layers in a user-friendly manner. It incorporates several key features.",
+    tech_stack: ["Javascript", "HTML", "CSS"],
+    github_url: "https://github.com/IASIKO/Final.projectn",
+    demo_url: "https://iasiko.github.io/Final.project/",
   },
 ];
 
