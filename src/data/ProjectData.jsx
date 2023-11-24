@@ -27,24 +27,6 @@ export const ProjectList = [
     github_url: "https://github.com/IASIKO/food-order-application",
     demo_url: "https://iasiko.github.io/food-order-application/",
   },
-  {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
-    description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
-  },
-  {
-    img: "/jobDetect.png",
-    title: "JobDetect",
-    description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
-  },
 ];
 
 // --------------------------------------- Skills
