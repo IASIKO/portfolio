@@ -45,6 +45,14 @@ export const ProjectList = [
     github_url: "https://github.com/IASIKO/Final.projectn",
     demo_url: "https://iasiko.github.io/Final.project/",
   },
+  {
+    img: "/bg.png",
+    title: "Board Games e-commerce App",
+    description: "An e-commerce web application for board games.",
+    tech_stack: ["React", "Router", "Redux-toolkit", "MongoDB", "Axios"],
+    github_url: "https://github.com/IASIKO/bg",
+    demo_url: "",
+  },
 ];
 
 // --------------------------------------- Skills
