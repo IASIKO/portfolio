@@ -19,6 +19,16 @@ export const ProjectList = [
     demo_url: "https://iasiko.github.io/sweeft.task/",
   },
   {
+    img: "/Calc.png",
+    title: "Calculator App",
+    description:
+      "calculator app implementing my own alternative to the mathjs.",
+    tech_stack: ["React", "Tailwind", "Mathjs"],
+    github_url: "https://github.com/IASIKO/Calculator-app/tree/main",
+    demo_url:
+      "https://656f6ff7eabe461dacc36b57--thunderous-fenglisu-e81509.netlify.app/",
+  },
+  {
     img: "/foodorderapp.png",
     title: "Food order App",
     description:
