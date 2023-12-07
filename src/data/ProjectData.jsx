@@ -29,6 +29,16 @@ export const ProjectList = [
       "https://656f6ff7eabe461dacc36b57--thunderous-fenglisu-e81509.netlify.app/",
   },
   {
+    img: "/quiz.png",
+    title: "Color Quiz App",
+    description:
+      "Color quiz application.",
+    tech_stack: ["React", 'HTML', 'CSS'],
+    github_url: "https://github.com/IASIKO/livecoding",
+    demo_url:
+      "https://6571a34301f8a072cd269580--imaginative-taiyaki-291534.netlify.app/",
+  },
+  {
     img: "/foodorderapp.png",
     title: "Food order App",
     description:
