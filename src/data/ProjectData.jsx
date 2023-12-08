@@ -36,7 +36,7 @@ export const ProjectList = [
     tech_stack: ["React", 'HTML', 'CSS'],
     github_url: "https://github.com/IASIKO/livecoding",
     demo_url:
-      "https://6571a34301f8a072cd269580--imaginative-taiyaki-291534.netlify.app/",
+      "https://6572e48f3fed5a666bde79e7--adorable-eclair-3c2c1c.netlify.app/",
   },
   {
     img: "/foodorderapp.png",
