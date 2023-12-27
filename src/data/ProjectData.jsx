@@ -16,7 +16,7 @@ export const ProjectList = [
       "This project is a web application built using React, React Router DOM, and Material UI. It allows users to find information about countries using a certain API, exchange currency, and access data about airports in different countries.",
     tech_stack: ["React", "Material-UI", "API", "Router"],
     github_url: "https://github.com/IASIKO/sweeft.task",
-    demo_url: "https://iasiko.github.io/sweeft.task/",
+    demo_url: "",
   },
   {
     img: "/Calc.png",
@@ -31,9 +31,8 @@ export const ProjectList = [
   {
     img: "/quiz.png",
     title: "Color Quiz App",
-    description:
-      "Color quiz application.",
-    tech_stack: ["React", 'HTML', 'CSS'],
+    description: "Color quiz application.",
+    tech_stack: ["React", "HTML", "CSS"],
     github_url: "https://github.com/IASIKO/livecoding",
     demo_url:
       "https://6572e48f3fed5a666bde79e7--adorable-eclair-3c2c1c.netlify.app/",
