@@ -10,15 +10,6 @@ export const ProjectList = [
     demo_url: "https://iasiko.github.io/weather-app/",
   },
   {
-    img: "/country.png",
-    title: "Countries API",
-    description:
-      "This project is a web application built using React, React Router DOM, and Material UI. It allows users to find information about countries using a certain API, exchange currency, and access data about airports in different countries.",
-    tech_stack: ["React", "Material-UI", "API", "Router"],
-    github_url: "https://github.com/IASIKO/sweeft.task",
-    demo_url: "",
-  },
-  {
     img: "/Calc.png",
     title: "Calculator App",
     description:
@@ -70,6 +61,15 @@ export const ProjectList = [
     description: "An e-commerce web application for board games.",
     tech_stack: ["React", "Router", "Redux-toolkit", "MongoDB", "Axios"],
     github_url: "https://github.com/IASIKO/bg",
+    demo_url: "",
+  },
+  {
+    img: "/country.png",
+    title: "Countries API",
+    description:
+      "This project is a web application built using React, React Router DOM, and Material UI. It allows users to find information about countries using a certain API, exchange currency, and access data about airports in different countries.",
+    tech_stack: ["React", "Material-UI", "API", "Router"],
+    github_url: "https://github.com/IASIKO/sweeft.task",
     demo_url: "",
   },
 ];
