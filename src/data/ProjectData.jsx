@@ -20,6 +20,15 @@ export const ProjectList = [
       "https://656f6ff7eabe461dacc36b57--thunderous-fenglisu-e81509.netlify.app/",
   },
   {
+    img: "/tictactoe.png",
+    title: "Tic Tac Toe App",
+    description: "Tic Tac Toe App app.",
+    tech_stack: ["React", "Styled-Components", "Context"],
+    github_url: "https://github.com/IASIKO/tic-tac-toe",
+    demo_url:
+      "https://65981ca24826241a6519b666--ornate-jalebi-65e1d7.netlify.app/",
+  },
+  {
     img: "/quiz.png",
     title: "Color Quiz App",
     description: "Color quiz application.",
