@@ -12,8 +12,7 @@ export const ProjectList = [
   {
     img: "/desktop-preview.jpg",
     title: "URL shortener",
-    description:
-      "URL shortening App using API",
+    description: "URL shortening App using API",
     tech_stack: ["React", "module css", "localstorage", "API"],
     github_url: "https://github.com/IASIKO/urlShortener",
     demo_url:
@@ -86,7 +85,7 @@ export const ProjectList = [
     img: "/country.png",
     title: "Countries API",
     description:
-      "This project is a web application built using React, React Router DOM, and Material UI. It allows users to find information about countries using a certain API, exchange currency, and access data about airports in different countries.",
+      "This project is a web application built using React, React Router DOM, and Material UI. It allows users to find information about countries using a certain API, exchange currency, and access data about airports in different countries. WARNING!!! - API_KEYS are expired.",
     tech_stack: ["React", "Material-UI", "API", "Router"],
     github_url: "https://github.com/IASIKO/sweeft.task",
     demo_url: "",
