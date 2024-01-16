@@ -10,7 +10,17 @@ export const ProjectList = [
     demo_url: "https://iasiko.github.io/weather-app/",
   },
   {
-    img: "/Calc.png",
+    img: "/desktop-preview.jpg",
+    title: "URL shortener",
+    description:
+      "URL shortening App using API",
+    tech_stack: ["React", "module css", "localstorage", "API"],
+    github_url: "https://github.com/IASIKO/urlShortener",
+    demo_url:
+      "https://65a64f4e78ba5f9b20cedd32--inquisitive-douhua-73f7bf.netlify.app/",
+  },
+  {
+    img: "/calculator.jpg",
     title: "Calculator App",
     description:
       "calculator app implementing my own alternative to the mathjs.",
