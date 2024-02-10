@@ -124,12 +124,28 @@ export const stackList = [
     name: "Git",
   },
   {
+    img: "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg",
+    name: "GitHub",
+  },
+  {
+    img: "https://raw.githubusercontent.com/detain/svg-logos/master/svg/b/bitbucket-icon.svg",
+    name: "BitBucket",
+  },
+  {
+    img: "https://cdn.worldvectorlogo.com/logos/jira-1.svg",
+    name: "Jira",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
     name: "Firebase",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
     name: "MongoDB",
+  },
+  {
+    img: "https://cdn.worldvectorlogo.com/logos/redux.svg",
+    name: "Redux",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
@@ -140,15 +156,19 @@ export const stackList = [
     name: "Material UI",
   },
   {
+    img: "https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png",
+    name: "TailwindCSS",
+  },
+  {
+    img: "https://avatars.githubusercontent.com/u/20658825?s=200&v=4",
+    name: "SC",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
     name: "Figma",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
-    name: "VS Code",
+    img: "https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png",
+    name: "Jest",
   },
 ];

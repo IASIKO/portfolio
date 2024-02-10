@@ -24,7 +24,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Giorgi Iaseshvili</strong>. I am a Junior Front-end Web Developer passionate about creating dynamic and interactive user interfaces. I have hands-on experience in React, which I have utilized to develop web applications that are user-friendly and responsive. I am dedicated to staying up-to-date with the latest advancements in web development and constantly seeking new challenges to expand my skill set. I have strong attention to detail, ensuring that my projects are executed with the highest quality. My ultimate goal is to become a leader in the Full-Stack development industry and positively impact the user experience.
+            Hello! My name is <strong>Giorgi Iaseshvili</strong>. I am a Front-end Web Developer passionate about creating dynamic and interactive user interfaces. I have hands-on experience in React, which I have utilized to develop web applications that are user-friendly and responsive. I am dedicated to staying up-to-date with the latest advancements in web development and constantly seeking new challenges to expand my skill set. I have strong attention to detail, ensuring that my projects are executed with the highest quality. My ultimate goal is to become a leader in the Full-Stack development industry and positively impact the user experience.
             </ScrollAnimation>
 
             <br /><br />
