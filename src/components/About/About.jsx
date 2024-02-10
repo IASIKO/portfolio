@@ -1,4 +1,3 @@
-import React from "react";
 import { stackList } from "../../data/ProjectData";
 import {
   Image,
