@@ -74,6 +74,16 @@ export const ProjectList = [
     demo_url: "https://iasiko.github.io/Final.project/",
   },
   {
+    img: "/tbc.png",
+    title: "TBCxUSAID single page",
+    description:
+      "The application is built using a stack comprising HTML, CSS, and vanilla JavaScript, providing a clean and efficient structure for easy maintenance and scalability.",
+    tech_stack: ["Javascript", "HTML", "CSS"],
+    github_url: "https://github.com/IASIKO/TBCxUSAID",
+    demo_url:
+      "https://65e88a351454bb0a9276f4ca--reliable-alfajores-af847f.netlify.app/",
+  },
+  {
     img: "/bg.png",
     title: "Board Games e-commerce App",
     description: "An e-commerce web application for board games.",
