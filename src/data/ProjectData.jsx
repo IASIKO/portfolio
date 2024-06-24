@@ -1,13 +1,22 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/weather.png",
-    title: "Weather App",
+    img: "/liquor-store.png",
+    title: "Liquor Store",
     description:
-      "Experience weather updates at your fingertips with sleek React-based app, providing real-time forecasts and intuitive navigation for a seamless and informed daily planning.",
-    tech_stack: ["React"],
-    github_url: "https://github.com/IASIKO/weather-app",
-    demo_url: "https://iasiko.github.io/weather-app/",
+      "Welcome to the Liquor Store! This is a Next.js 14 app router built with TypeScript, Tailwind CSS, and various other libraries to provide a comprehensive online liquor store Super App with internationalization, dark mode, payment processing, authentication, and much more.",
+    tech_stack: [
+      "Next",
+      "Typescript",
+      "Tailwind",
+      "PostgreSQL",
+      "Blob",
+      "Auth0",
+      "Stripe",
+      "Framer motion",
+    ],
+    github_url: "https://github.com/IASIKO/tbc-react-course",
+    demo_url: "https://tbc-react-course-mu.vercel.app/",
   },
   {
     img: "/desktop-preview.jpg",
@@ -19,16 +28,6 @@ export const ProjectList = [
       "https://65a64f4e78ba5f9b20cedd32--inquisitive-douhua-73f7bf.netlify.app/",
   },
   {
-    img: "/calculator.jpg",
-    title: "Calculator App",
-    description:
-      "calculator app implementing my own alternative to the mathjs.",
-    tech_stack: ["React", "Tailwind", "Mathjs"],
-    github_url: "https://github.com/IASIKO/Calculator-app/tree/main",
-    demo_url:
-      "https://656f6ff7eabe461dacc36b57--thunderous-fenglisu-e81509.netlify.app/",
-  },
-  {
     img: "/tictactoe.png",
     title: "Tic Tac Toe App",
     description: "Tic Tac Toe App app.",
@@ -38,13 +37,14 @@ export const ProjectList = [
       "https://65981ca24826241a6519b666--ornate-jalebi-65e1d7.netlify.app/",
   },
   {
-    img: "/quiz.png",
-    title: "Color Quiz App",
-    description: "Color quiz application.",
-    tech_stack: ["React", "HTML", "CSS"],
-    github_url: "https://github.com/IASIKO/livecoding",
+    img: "/calculator.jpg",
+    title: "Calculator App",
+    description:
+      "calculator app implementing my own alternative to the mathjs.",
+    tech_stack: ["React", "Tailwind", "Mathjs"],
+    github_url: "https://github.com/IASIKO/Calculator-app/tree/main",
     demo_url:
-      "https://6572e48f3fed5a666bde79e7--adorable-eclair-3c2c1c.netlify.app/",
+      "https://656f6ff7eabe461dacc36b57--thunderous-fenglisu-e81509.netlify.app/",
   },
   {
     img: "/foodorderapp.png",
@@ -87,9 +87,34 @@ export const ProjectList = [
     img: "/bg.png",
     title: "Board Games e-commerce App",
     description: "An e-commerce web application for board games.",
-    tech_stack: ["React", "Router", "Redux-toolkit", "MongoDB", "Axios", "Express"],
+    tech_stack: [
+      "React",
+      "Router",
+      "Redux-toolkit",
+      "MongoDB",
+      "Axios",
+      "Express",
+    ],
     github_url: "https://github.com/IASIKO/bg",
     demo_url: "",
+  },
+  {
+    img: "/quiz.png",
+    title: "Color Quiz App",
+    description: "Color quiz application.",
+    tech_stack: ["React", "HTML", "CSS"],
+    github_url: "https://github.com/IASIKO/livecoding",
+    demo_url:
+      "https://6572e48f3fed5a666bde79e7--adorable-eclair-3c2c1c.netlify.app/",
+  },
+  {
+    img: "/weather.png",
+    title: "Weather App",
+    description:
+      "Experience weather updates at your fingertips with sleek React-based app, providing real-time forecasts and intuitive navigation for a seamless and informed daily planning.",
+    tech_stack: ["React"],
+    github_url: "https://github.com/IASIKO/weather-app",
+    demo_url: "https://iasiko.github.io/weather-app/",
   },
 ];
 
